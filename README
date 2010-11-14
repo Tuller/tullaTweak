@@ -1,0 +1,5 @@
+tullaTweak: Miscellaneous minor tweaks to the interface
+* Auto vendor grey items
+* Auto repair when visiting a vendor
+* Add memory usage/basic stats to the tracking button tooltip
+* Hide extra buttons on the minimap & add mousewheel support
